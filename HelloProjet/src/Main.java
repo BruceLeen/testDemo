@@ -5,5 +5,6 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
+		System.out.println("HelloWorld!³åÍ»ÑÝÊ¾11111111");
     }
 }
